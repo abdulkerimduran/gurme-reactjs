@@ -1,0 +1,81 @@
+[
+
+        { "item": {
+            "id":1,
+            "type": "dürüm",
+            "title":"Adana Dürüm",
+            "name":"Adana Dürüm",
+            "img": "assets/img/product-imgs/adana-durum.jpeg",
+            "category": [
+                2
+            ],
+            "price":15.00,
+            "shortdesc":"%100 Dana-Kuzu Eti. Soğan, maydanoz, domates içeriği ile servis edilir.",
+            "sizes": [
+                {
+                    "id":1,
+                    "name": "Eko",
+                    "weight": 70,
+                    "price": 15.00
+                },
+                {
+                    "id":2,
+                    "name": "İdeal",
+                    "weight": 110,
+                    "price": 20.00
+                },
+                {
+                    "id":3,
+                    "name": "Duble",
+                    "weight": 140,
+                    "price": 25.00
+                }
+
+            ],
+            "spice": "Acılı"
+        } ,
+        
+        "quantity" : 4,
+        "size" : 1,
+        "description" : "Adana'da soğan olmasın"
+        }
+        , 
+        {
+          "item" : {  "id":2,
+            "type": "dürüm",
+            "title":"Urfa Dürüm",
+            "name":"Urfa Dürüm",
+            "img": "assets/img/product-imgs/adana-durum.jpeg",
+            "category": [
+                2
+            ],
+            "price":15.00,
+            "shortdesc":"%100 Dana-Kuzu Eti. Soğan, maydanoz, domates içeriği ile servis edilir.",
+            "sizes": [
+                {
+                    "id":1,
+                    "name": "Eko",
+                    "weight": 70,
+                    "price": 15.00
+                },
+                {
+                    "id":2,
+                    "name": "İdeal",
+                    "weight": 110,
+                    "price": 20.00
+                },
+                {
+                    "id":3,
+                    "name": "Duble",
+                    "weight": 140,
+                    "price": 25.00
+                }
+
+            ],
+            "spice": "Acısız"
+            },
+        "quantity" : 4,
+        "size" : 1,
+        "description" : "Urfa'da soğan olmalı"
+        }
+    ]

@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "img": "assets/img/locations/restaurant.jpeg",
+        "title": "Gurme Dürüm Aksu",
+        "brancetype": "Ana Şube",
+        "location": [
+            "Güzelyurt Mh. Serik Cd. No:16",
+            "(Anfaş Expo Kavşağı)",
+            "Aksu/Antalya"
+        ],
+        "contactno": "(0242) 463 11 41",
+        "emailid": "info@gurmedurum.com",
+        "mapdata": [
+            36.93548, 30.8152
+        ]
+    }
+]

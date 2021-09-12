@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Kebaplar",
+        "img": "assets/img/product-category-imgs-thumbs/kebap-ctg-thumb.jpg",
+        "lgimg":"assets/img/product-category-imgs-thumbs/kebap-ctg-thumb.jpg",
+        "shortdesc":"Bulgur pilavı, kızarmış domates ve biberle servis edilen kebaplar"
+    },
+    {
+        "id": 2,
+        "title": "Dürümler",
+        "img": "assets/img/categories/3.jpg",
+        "lgimg":"assets/img/categories-lg/3.jpg",
+        "shortdesc":"Çıtır lavaşa sarılmış kebaplar"
+    },
+    {
+        "id": 3,
+        "title": "İçecekler",
+        "img": "assets/img/categories/3.jpg",
+        "lgimg":"assets/img/categories-lg/3.jpg",
+        "shortdesc":"Kebapların yanında tüketebileceğiniz soğuk içecekler"
+    },
+    {
+        "id": 4,
+        "title": "Tatlılar",
+        "img": "assets/img/categories/7.jpg",
+        "lgimg":"assets/img/categories-lg/4.jpg",
+        "shortdesc":"Eker Tatlıları"
+    }
+]
